@@ -416,7 +416,7 @@ MIT License - feel free to use for educational and commercial purposes.
 
 ## 📬 Contact
 
-For questions or contributions, please contact [EMAIL_ADDRESS]
+For questions or contributions, please contact hello.sameerbusiness@gmail.com
 
 ---
 
