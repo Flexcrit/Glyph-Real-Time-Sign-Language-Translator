@@ -416,8 +416,8 @@ MIT License - feel free to use for educational and commercial purposes.
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or submit a pull request.
+For questions or contributions, please contact hello.sameerbusiness@gmail.com
 
 ---
 
-**Built with ❤️ using Python, TensorFlow, and MediaPipe**
+**Built by Sameer Abrar (Flexcrit Inc)**
